@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alert Dialog Tutorial</string>
+    <string name="txt_alert_dialog_title">Press me to see Alert Box</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fire">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="alert_dialog">Alert Dialog</string>
+    <string name="alert_title">ekoremdev@gmail.com</string>
+    <string name="alert_dialog_button">Alert Button</string>
+</resources>
